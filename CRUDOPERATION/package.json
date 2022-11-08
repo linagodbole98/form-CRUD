@@ -1,0 +1,21 @@
+{
+  "name": "crud-operation",
+  "version": "1.0.0",
+  "description": "this is crud operation using mongodb and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon index.js"
+  },
+  "author": "lina",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1247.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
